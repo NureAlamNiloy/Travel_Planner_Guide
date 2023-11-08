@@ -1,0 +1,227 @@
+[
+    {
+      "title": "Luxury Beachfront Resort",
+      "id": 1,
+      "description": "Experience the ultimate in luxury at our beachfront resort. Enjoy stunning ocean views, world-class dining, and top-notch amenities.",
+      "image": "https://i.ibb.co/4RK98j8/07076ba3-8c99-4162-9852-19db8986929e.webp",
+      "rating": 4.7,
+      "location": {
+        "city": "Paradise Beach",
+        "state": "California",
+        "country": "United States"
+      },
+      "checkoutprice": {
+        "currency": "USD",
+        "amount": 350.00
+      }
+    },
+    {
+      "title": "Cozy Mountain Retreat",
+      "id": 2,
+      "description": "Escape to the mountains and unwind in our cozy retreat. Hike the trails, relax by the fireplace, and savor delicious mountain cuisine.",
+      "image": "https://i.ibb.co/fYMFsvJ/a4d9fd8a-2e12-4057-a8d8-387e34625a5c.webp",
+      "rating": 4.5,
+      "location": {
+        "city": "Mountainville",
+        "state": "Colorado",
+        "country": "United States"
+      },
+      "checkoutprice": {
+        "currency": "USD",
+        "amount": 200.00
+      }
+    },
+    {
+      "title": "Urban Chic Boutique Hotel",
+      "id": 3,
+      "description": "Discover urban luxury in the heart of the city. Our boutique hotel offers stylish rooms, a rooftop bar, and easy access to local attractions.",
+      "image": "https://i.ibb.co/55Fmrmj/b3c51fe5-73a2-4fde-8977-2cf6d22f0968.webp",
+      "rating": 4.8,
+      "location": {
+        "city": "Metropolis",
+        "state": "New York",
+        "country": "United States"
+      },
+      "checkoutprice": {
+        "currency": "USD",
+        "amount": 280.00
+      }
+    },
+    {
+        "title": "Luxury Beachfront Resort",
+        "id": 1,
+        "description": "Experience the ultimate in luxury at our beachfront resort. Enjoy stunning ocean views, world-class dining, and top-notch amenities.",
+        "image": "https://i.ibb.co/4RK98j8/07076ba3-8c99-4162-9852-19db8986929e.webp",
+        "rating": 4.7,
+        "location": {
+          "city": "Paradise Beach",
+          "state": "California",
+          "country": "United States"
+        },
+        "checkoutprice": {
+          "currency": "USD",
+          "amount": 350.00
+        }
+      },
+      {
+        "title": "Cozy Mountain Retreat",
+        "id": 2,
+        "description": "Escape to the mountains and unwind in our cozy retreat. Hike the trails, relax by the fireplace, and savor delicious mountain cuisine.",
+        "image": "https://i.ibb.co/fYMFsvJ/a4d9fd8a-2e12-4057-a8d8-387e34625a5c.webp",
+        "rating": 4.5,
+        "location": {
+          "city": "Mountainville",
+          "state": "Colorado",
+          "country": "United States"
+        },
+        "checkoutprice": {
+          "currency": "USD",
+          "amount": 200.00
+        }
+      },
+      {
+        "title": "Urban Chic Boutique Hotel",
+        "id": 3,
+        "description": "Discover urban luxury in the heart of the city. Our boutique hotel offers stylish rooms, a rooftop bar, and easy access to local attractions.",
+        "image": "https://i.ibb.co/55Fmrmj/b3c51fe5-73a2-4fde-8977-2cf6d22f0968.webp",
+        "rating": 4.8,
+        "location": {
+          "city": "Metropolis",
+          "state": "New York",
+          "country": "United States"
+        },
+        "checkoutprice": {
+          "currency": "USD",
+          "amount": 280.00
+        }
+      },
+      {
+        "title": "Luxury Beachfront Resort",
+        "id": 1,
+        "description": "Experience the ultimate in luxury at our beachfront resort. Enjoy stunning ocean views, world-class dining, and top-notch amenities.",
+        "image": "https://i.ibb.co/4RK98j8/07076ba3-8c99-4162-9852-19db8986929e.webp",
+        "rating": 4.7,
+        "location": {
+          "city": "Paradise Beach",
+          "state": "California",
+          "country": "United States"
+        },
+        "checkoutprice": {
+          "currency": "USD",
+          "amount": 350.00
+        }
+      },
+      {
+        "title": "Cozy Mountain Retreat",
+        "id": 2,
+        "description": "Escape to the mountains and unwind in our cozy retreat. Hike the trails, relax by the fireplace, and savor delicious mountain cuisine.",
+        "image": "https://i.ibb.co/fYMFsvJ/a4d9fd8a-2e12-4057-a8d8-387e34625a5c.webp",
+        "rating": 4.5,
+        "location": {
+          "city": "Mountainville",
+          "state": "Colorado",
+          "country": "United States"
+        },
+        "checkoutprice": {
+          "currency": "USD",
+          "amount": 200.00
+        }
+      },
+      {
+        "title": "Urban Chic Boutique Hotel",
+        "id": 3,
+        "description": "Discover urban luxury in the heart of the city. Our boutique hotel offers stylish rooms, a rooftop bar, and easy access to local attractions.",
+        "image": "https://i.ibb.co/55Fmrmj/b3c51fe5-73a2-4fde-8977-2cf6d22f0968.webp",
+        "rating": 4.8,
+        "location": {
+          "city": "Metropolis",
+          "state": "New York",
+          "country": "United States"
+        },
+        "checkoutprice": {
+          "currency": "USD",
+          "amount": 280.00
+        }
+      },
+      {
+        "title": "Luxury Beachfront Resort",
+        "id": 1,
+        "description": "Experience the ultimate in luxury at our beachfront resort. Enjoy stunning ocean views, world-class dining, and top-notch amenities.",
+        "image": "https://i.ibb.co/4RK98j8/07076ba3-8c99-4162-9852-19db8986929e.webp",
+        "rating": 4.7,
+        "location": {
+          "city": "Paradise Beach",
+          "state": "California",
+          "country": "United States"
+        },
+        "checkoutprice": {
+          "currency": "USD",
+          "amount": 350.00
+        }
+      },
+      {
+        "title": "Cozy Mountain Retreat",
+        "id": 2,
+        "description": "Escape to the mountains and unwind in our cozy retreat. Hike the trails, relax by the fireplace, and savor delicious mountain cuisine.",
+        "image": "https://i.ibb.co/fYMFsvJ/a4d9fd8a-2e12-4057-a8d8-387e34625a5c.webp",
+        "rating": 4.5,
+        "location": {
+          "city": "Mountainville",
+          "state": "Colorado",
+          "country": "United States"
+        },
+        "checkoutprice": {
+          "currency": "USD",
+          "amount": 200.00
+        }
+      },
+      {
+        "title": "Urban Chic Boutique Hotel",
+        "id": 3,
+        "description": "Discover urban luxury in the heart of the city. Our boutique hotel offers stylish rooms, a rooftop bar, and easy access to local attractions.",
+        "image": "https://i.ibb.co/55Fmrmj/b3c51fe5-73a2-4fde-8977-2cf6d22f0968.webp",
+        "rating": 4.8,
+        "location": {
+          "city": "Metropolis",
+          "state": "New York",
+          "country": "United States"
+        },
+        "checkoutprice": {
+          "currency": "USD",
+          "amount": 280.00
+        }
+      },
+      {
+        "title": "Urban Chic Boutique Hotel",
+        "id": 3,
+        "description": "Discover urban luxury in the heart of the city. Our boutique hotel offers stylish rooms, a rooftop bar, and easy access to local attractions.",
+        "image": "https://i.ibb.co/55Fmrmj/b3c51fe5-73a2-4fde-8977-2cf6d22f0968.webp",
+        "rating": 4.8,
+        "location": {
+          "city": "Metropolis",
+          "state": "New York",
+          "country": "United States"
+        },
+        "checkoutprice": {
+          "currency": "USD",
+          "amount": 280.00
+        }
+      },
+      {
+        "title": "Urban Chic Boutique Hotel",
+        "id": 3,
+        "description": "Discover urban luxury in the heart of the city. Our boutique hotel offers stylish rooms, a rooftop bar, and easy access to local attractions.",
+        "image": "https://i.ibb.co/55Fmrmj/b3c51fe5-73a2-4fde-8977-2cf6d22f0968.webp",
+        "rating": 4.8,
+        "location": {
+          "city": "Metropolis",
+          "state": "New York",
+          "country": "United States"
+        },
+        "checkoutprice": {
+          "currency": "USD",
+          "amount": 280.00
+        }
+      }
+  
+  ]
